@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+This page is still under construction. 
 
-You can use the [editor on GitHub](https://github.com/pw384/pw384.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Jiaheng Wang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+EECS, Peking University
+Email: pw384 AT pku DOT edu DOT cn (current address; may change after graduation)
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a grade 4 undergraduate student at Peking University, majoring in computer science. 
 
-```markdown
-Syntax highlighted code block
+My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes, randomness in computation, sampling and counting, Boolean functions, and graph theory. 
 
-# Header 1
-## Header 2
-### Header 3
+Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside. 
 
-- Bulleted
-- List
+### Research
 
-1. Numbered
-2. List
+### Teaching
 
-**Bold** and _Italic_ and `Code` text
+### Collection of Interesting Open Problems
 
-[Link](url) and ![Image](src)
-```
+### Miscellaneous
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pw384/pw384.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Special thanks to Linkin Park for helping me go through those hard time. 
