@@ -1,6 +1,6 @@
-EECS, Peking University
+**EECS, Peking University**
 
-Email: pw384 AT pku DOT edu DOT cn (current address; may change after graduation)
+**Email:** pw384 AT pku DOT edu DOT cn *(current address; may change after graduation)*
 
 ## About Me
 
@@ -22,11 +22,11 @@ Arxiv: [1910.12458](https://arxiv.org/abs/1910.12458).
 
 ### At Peking University
 
-Introduction to Computer Systems (04833040 / 04832363, 2019 Fall)
+Introduction to Computer Systems (04833040 / 04832363, 2019 Fall, TA)
 
-Introduction to the Theory of Computation (04833440, 2019 Spring)
+Introduction to the Theory of Computation (04833440, 2019 Spring, TA)
 
-Introduction to Computer Systems (04833040 / 04832363, 2018 Fall)
+Introduction to Computer Systems (04833040 / 04832363, 2018 Fall, TA)
 
 ## Seminars and Talks
 
@@ -37,6 +37,8 @@ Book reading group at Peking University: *Computational Complexity: Modern Appro
 [OI-Wiki](https://oi-wiki.org/)
 
 ## Collection of Interesting Open Problems
+
+*(Under construction)*
 
 ## Miscellaneous
 
