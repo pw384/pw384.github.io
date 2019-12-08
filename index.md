@@ -1,6 +1,6 @@
 **Center on Frontiers of Computing Studies**  
 **Peking University**  
-**Email:** pw384 AT pku DOT edu DOT cn *(current address; may change after graduation)*
+**Email:** pw384 AT pku D0T edu D0T cn *(current address; may change after graduation)*
 
 ## About Me
 
@@ -24,6 +24,10 @@ Introduction to Computer Systems (04833040 / 04832363, 2019 Fall, TA)
 Introduction to the Theory of Computation (04833440, 2019 Spring, TA)  
 Introduction to Computer Systems (04833040 / 04832363, 2018 Fall, TA)
 
+*Upcoming:* 
+*? Introduction to the Theory of Computation (04833440, 2020 Spring, TA)*  
+*? Randomized Algorithms (04834010, 2020 Spring, TA)*
+
 ## Seminars and Talks
 
 Book reading group at Peking University: *Computational Complexity: Modern Approaches* (2019 Fall)
@@ -32,10 +36,12 @@ Book reading group at Peking University: *Computational Complexity: Modern Appro
 
 I am currently participating as an editor in the project [OI-Wiki](https://oi-wiki.org/). Let's support this outstanding project!
 
-## Collection of Interesting Open Problems
+## Miscellaneous
+
+### Collection of Interesting Open Problems
 
 *(Under construction)*
 
-## Miscellaneous
+### Special Thanks
 
 Special thanks to Linkin Park for helping me go through those hard time. 
