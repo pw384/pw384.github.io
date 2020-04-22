@@ -6,7 +6,7 @@ permalink: /
 
 ## Contact
 
-**Email:**  pw384[AT]hotmail[DOT]com or pw384[AT]pku[DOT]edu[DOT]com
+**Email:**  pw384[AT]hotmail[DOT]com or pw384[AT]pku[DOT]edu[DOT]cn
 
 ## About Me
 
