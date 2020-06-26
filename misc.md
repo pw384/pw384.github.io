@@ -2,6 +2,7 @@
 layout: default
 title: Miscellaneous
 permalink: /misc
+description: Informal things. 
 ---
 
 ## Useful Links

@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching
+description: That's crazy but fun!
 ---
 
 ## Current
