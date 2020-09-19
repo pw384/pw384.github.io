@@ -10,4 +10,5 @@ coming soon
 
 ## Talks
 
-coming soon
+**On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
+  ICALP 2020, Saarbrücken, Germany (virtual conference). 

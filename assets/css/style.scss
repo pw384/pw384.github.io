@@ -5,3 +5,79 @@
 
 body {font-family: arial;}
 
+header {
+	background: #fcfcfc;
+	h1 {
+		color: #000000;
+		text-shadow: 0px 2px 2px #bbbbbb;
+	}
+	p {
+		color: #000000;
+	}
+}
+
+section {
+	width: 760px;
+	background: #fcfcfc;
+
+}
+
+.wrapper {
+	width: 830px;
+	position:relative;
+}
+
+nav {
+	margin-left: -750px;
+}
+
+#banner {
+	background: #f3f3f3;
+	border: 0px;
+	width: 100%;
+	.button {
+		border: 1px solid #000000;
+		background: #eeeeee;
+		color: #eeeeee;
+		background-color: #eeeeee;
+		&:hover {
+			background: #ffffff;
+			background-color: #ffffff;
+		}
+	}
+	&:hover {
+		background: #f3f3f3;
+	}
+	.downloads {
+		float: left;
+		margin-left: 50%;
+	}
+	ul {
+		margin-left: -420px;
+		li {
+			a.button {
+				background-color: #eeeeee;
+			}
+		}
+	}
+}
+
+footer {
+    text-align: center;
+    margin: 20px auto;
+    position: relative;
+    left:auto;
+    bottom:auto;
+    width:auto;
+}
+
+@media print, screen and (max-width: 1060px) {
+#banner {
+	.downloads {
+		float: right;
+		margin-right: 60px;
+	}
+}
+}
+
+
