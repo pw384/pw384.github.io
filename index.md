@@ -24,7 +24,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 **Inapproximability of Counting Hypergraph Colourings**  
 *With* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *Submitted*  
-[[pdf]](/assets/papers/hc_hardness.pdf)
+[arXiv](https://arxiv.org/abs/2107.05486) [[pdf]](/assets/papers/hc_hardness.pdf)
 
 **On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
 *With* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
