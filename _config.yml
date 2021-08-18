@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jiaheng Wang's Homepage
+title: Jiaheng Wang
 description: >- # this means to ignore newlines until "baseurl:"
-  WORK IN PROGRESS
-email: pw384 AT hotmail DOT com
+  ----
 
 # Build settings
 theme: jekyll-theme-leap-day
