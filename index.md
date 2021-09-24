@@ -5,16 +5,18 @@ permalink: /
 ---
 
 ## Contact
+
+
 **Address:**  
-Room 2.33, Informatics Forum, the University of Edinburgh,  
-Edinburgh, Scotland, UK, EH8 9AB  
+Room 2.33, Informatics Forum, 10 Crichton Street,  
+Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 18/08/2021).  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 24/09/2021.)
 **Google Scholar entry:** [[Here]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en)  
 
 ## About Me
 
-I am a first-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. 
+I am a second-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. 
 
 My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
 
@@ -29,16 +31,20 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
-[[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf)
+[[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
 *with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
 **ICALP 2020**  
-[[doi]](https://doi.org/10.4230/LIPIcs.ICALP.2020.100) | [[arXiv]](https://arxiv.org/abs/1910.12458) | [[PDF]](/assets/papers/degm.pdf)
+[[doi]](https://doi.org/10.4230/LIPIcs.ICALP.2020.100) | [[arXiv]](https://arxiv.org/abs/1910.12458) | [[PDF]](/assets/papers/degm.pdf) | [[slides]](/assets/slides/degm_icalp20.pdf)
 
 ---
 
 ## Teaching
+
+#### At University of Edinburgh
+
+* Introduction to Algorithms and Data Structures (INFR08026, 2021/22, TA)
 
 #### At Peking University
 
