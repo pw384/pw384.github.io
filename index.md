@@ -11,8 +11,9 @@ permalink: /
 Room 2.33, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 24/09/2021.)
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 24/09/2021.)  
 **Google Scholar entry:** [[Here]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en)  
+**ORCID entry:** [[Here]](https://orcid.org/0000-0002-5191-545X)
 
 ## About Me
 
