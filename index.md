@@ -29,6 +29,11 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
+**Improved Bounds for Randomly Colouring Simple Hypergraphs**  
+*with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+*submitted*  
+[arXiv] | [[PDF]](/assets/papers/linear_lll.pdf)
+
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
