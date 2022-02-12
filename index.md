@@ -50,7 +50,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 #### At University of Edinburgh
 
-* Introduction to Algorithms and Data Structures (INFR08026, 2021/22, TA)
+* Introduction to Algorithms and Data Structures ([INFR08026](http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08026.htm), 2021/22 (whole year), TA)
 
 #### At Peking University
 
@@ -65,3 +65,8 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 ## Useful Links
 
 * [Useful inequalities](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf) ([local copy](/assets/resources/ineq.pdf))
+* [mathcha](mathcha.io) (I use this site to generate pics/graphs for slides)
+* [TCS Jobs](https://cstheory-jobs.org/)
+* [UW CSE599: Counting and Sampling](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html)
+* [MIT 18.225: Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtac/)
+* [Markov Chains and Mixing Times (2nd Edition)](https://yuvalperes.com/markov-chains-and-mixing-times-2/)
