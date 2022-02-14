@@ -29,10 +29,12 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
+PDF versions are always up-to-date. 
+
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
-[arXiv] | [[PDF]](/assets/papers/linear_lll.pdf)
+[[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf)
 
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
@@ -65,7 +67,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 ## Useful Links
 
 * [Useful inequalities](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf) ([local copy](/assets/resources/ineq.pdf))
-* [mathcha](mathcha.io) (I use this site to generate pics/graphs for slides)
+* [mathcha](https://mathcha.io) (I use this site to generate pics/graphs for slides)
 * [TCS Jobs](https://cstheory-jobs.org/)
 * [UW CSE599: Counting and Sampling](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html)
 * [MIT 18.225: Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtac/)
