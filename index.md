@@ -8,10 +8,10 @@ permalink: /
 
 
 **Address:**  
-Room 2.33, Informatics Forum, 10 Crichton Street,  
+Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 14/02/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 12/04/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X)  
 
 ## About Me
@@ -20,7 +20,7 @@ I am a second-year PhD student at the [School of Informatics, University of Edin
 
 My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
 
-My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes, randomness in computation, sampling and counting, Boolean functions, and graph theory. 
+My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes extremal graph theory, (randomised) algorithm and complexity of approximate counting. 
 
 Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside, as I can no longer devote any much towards competitive gaming.
 
@@ -28,7 +28,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
-PDF versions are always up-to-date. 
+PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). 
 
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
