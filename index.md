@@ -11,7 +11,7 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 12/04/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 05/05/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X)  
 
 ## About Me
@@ -29,6 +29,11 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 ## Research
 
 PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). 
+
+**Sampling from the Ferromagnetic Ising Model with External Fields**  
+*with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+*submitted*  
+[[arXiv]](https://arxiv.org/abs/2205.01985) | [[PDF]](/assets/papers/ferro_ising_field.pdf)
 
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
