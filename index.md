@@ -37,7 +37,7 @@ PDF versions are always up-to-date. Authors are listed according to [alphabetica
 
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-*submitted*  
+**RANDOM 2022**  
 [[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf)
 
 **Inapproximability of Counting Hypergraph Colourings**  
