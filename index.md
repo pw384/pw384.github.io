@@ -28,12 +28,12 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
-PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). 
+PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
 
-**Sampling from the Ferromagnetic Ising Model with External Fields**  
+**Swendsen-Wang Dynamics for the Ferromagnetic Ising model with External Fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
-[[arXiv]](https://arxiv.org/abs/2205.01985) | [[PDF]](/assets/papers/ferro_ising_field.pdf)
+[[arXiv]](https://arxiv.org/abs/2205.01985) | [[PDF]](/assets/papers/grand_model.pdf)
 
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
