@@ -11,7 +11,7 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 05/05/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 22/07/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X)  
 
 ## About Me
@@ -30,7 +30,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
 
-**Swendsen-Wang Dynamics for the Ferromagnetic Ising model with External Fields**  
+**Swendsen-Wang Dynamics for the Ferromagnetic Ising Model with External Fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
 [[arXiv]](https://arxiv.org/abs/2205.01985) | [[PDF]](/assets/papers/grand_model.pdf)
@@ -42,7 +42,7 @@ PDF versions are always up-to-date. Authors are listed according to [alphabetica
 
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-*submitted*  
+**ACM Transactions on Computation Theory**, *accepted*  
 [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
