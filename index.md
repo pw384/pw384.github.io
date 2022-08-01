@@ -30,6 +30,11 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
 
+**A Simple Polynomial-Time Approximation Algorithm for Total Variation Distances Between Product Distributions.**  
+*with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
+*submitted*  
+[[arXiv]]() | [[PDF]](/assets/papers/dtv_alg.pdf)
+
 **Swendsen-Wang Dynamics for the Ferromagnetic Ising Model with External Fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
