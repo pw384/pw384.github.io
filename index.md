@@ -11,7 +11,7 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 22/07/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 02/08/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X)  
 
 ## About Me
@@ -20,7 +20,7 @@ I am a second-year PhD student at the [School of Informatics, University of Edin
 
 My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
 
-My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes extremal graph theory, (randomised) algorithm and complexity of approximate counting. 
+My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes extremal graph theory, (randomised) algorithms and complexity of approximate counting. 
 
 Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside, as I can no longer devote any much towards competitive gaming.
 
@@ -78,6 +78,8 @@ PDF versions are always up-to-date. Authors are listed according to [alphabetica
 * [Useful inequalities](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf) ([local copy](/assets/resources/ineq.pdf))
 * [mathcha](https://mathcha.io) (I use this site to generate pics/graphs for slides)
 * [TCS Jobs](https://cstheory-jobs.org/)
+* [Math Jobs](https://www.mathjobs.org/)
 * [UW CSE599: Counting and Sampling](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html)
 * [MIT 18.225: Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtac/)
 * [Markov Chains and Mixing Times (2nd Edition)](https://yuvalperes.com/markov-chains-and-mixing-times-2/)
+* [Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)
