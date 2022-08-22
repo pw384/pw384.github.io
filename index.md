@@ -28,7 +28,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
-PDF versions are always up-to-date. Authors are listed according to [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
+PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
 
 **A Simple Polynomial-Time Approximation Algorithm for Total Variation Distances Between Product Distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
@@ -47,8 +47,8 @@ PDF versions are always up-to-date. Authors are listed according to [alphabetica
 
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**ACM Transactions on Computation Theory**, *accepted*  
-[[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
+**ACM Transactions on Computation Theory**, *to appear*  
+[[doi](https://doi.org/10.1145/3558554)] | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
 *with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
@@ -61,6 +61,8 @@ PDF versions are always up-to-date. Authors are listed according to [alphabetica
 
 #### At University of Edinburgh
 
+* Introduction to Algorithms and Data Structures ([INFR08026](http://www.drps.ed.ac.uk/22-23/dpt/cxinfr08026.htm), 2022/23 (whole year), TA)
+* Randomized Algorithms ([INFR11201](http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11201.htm), 2022 Autumn, Tutor)
 * Introduction to Algorithms and Data Structures ([INFR08026](http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08026.htm), 2021/22 (whole year), TA)
 
 #### At Peking University
