@@ -11,12 +11,12 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 02/08/2022)  
-[[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 22/08/2022)  
+[[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
 
-I am a second-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. 
+I am a third-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. 
 
 My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
 
@@ -28,7 +28,7 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 ## Research
 
-PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of submission. 
+PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
 **A Simple Polynomial-Time Approximation Algorithm for Total Variation Distances Between Product Distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
@@ -43,12 +43,12 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Improved Bounds for Randomly Colouring Simple Hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **RANDOM 2022**  
-[[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf)
+[[doi]](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.25) | [[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf) | [[slides]](/assets/slides/linear_lll_slides.pdf)
 
 **Inapproximability of Counting Hypergraph Colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **ACM Transactions on Computation Theory**, *to appear*  
-[[doi](https://doi.org/10.1145/3558554)] | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
+[[doi]](https://doi.org/10.1145/3558554) | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
 *with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
