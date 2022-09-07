@@ -30,27 +30,27 @@ Aside from academic topics, I am also fond of abundant recreations, from playing
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
-**A Simple Polynomial-Time Approximation Algorithm for Total Variation Distances Between Product Distributions**  
+**A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 *submitted*  
-[[arXiv]](https://arxiv.org/abs/2208.00740) | [[PDF]](/assets/papers/dtv_alg.pdf)
+[[arXiv]](https://arxiv.org/abs/2208.00740v2) | [[PDF]](/assets/papers/dtv_alg.pdf)
 
-**Swendsen-Wang Dynamics for the Ferromagnetic Ising Model with External Fields**  
+**Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
-[[arXiv]](https://arxiv.org/abs/2205.01985) | [[PDF]](/assets/papers/grand_model.pdf)
+[[arXiv]](https://arxiv.org/abs/2205.01985v2) | [[PDF]](/assets/papers/grand_model.pdf)
 
-**Improved Bounds for Randomly Colouring Simple Hypergraphs**  
+**Improved bounds for randomly colouring simple hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **RANDOM 2022**  
 [[doi]](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.25) | [[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf) | [[slides]](/assets/slides/linear_lll_slides.pdf)
 
-**Inapproximability of Counting Hypergraph Colourings**  
+**Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **ACM Transactions on Computation Theory**, *to appear*  
 [[doi]](https://doi.org/10.1145/3558554) | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
-**On the Degree of Boolean Functions as Polynomials over \\(\mathbb{Z}_m\\)**  
+**On the degree of boolean functions as polynomials over \\(\mathbb{Z}_m\\)**  
 *with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
 **ICALP 2020**  
 [[doi]](https://doi.org/10.4230/LIPIcs.ICALP.2020.100) | [[arXiv]](https://arxiv.org/abs/1910.12458) | [[PDF]](/assets/papers/degm.pdf) | [[slides]](/assets/slides/degm_icalp20.pdf)
