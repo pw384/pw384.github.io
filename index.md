@@ -11,7 +11,7 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 22/08/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 15/10/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
@@ -32,7 +32,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-*submitted*  
+**SOSA 2023**  
 [[arXiv]](https://arxiv.org/abs/2208.00740v2) | [[PDF]](/assets/papers/dtv_alg.pdf)
 
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
