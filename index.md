@@ -11,24 +11,30 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 15/10/2022)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 08/11/2022)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
 
-I am a third-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. 
+I am a third-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/), majoring in computer science, and was a member of PKU's Turing Class. My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
 
-My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
+My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes (randomised) algorithms and complexity of approximate counting, and extremal graph theory. 
 
-My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes extremal graph theory, (randomised) algorithms and complexity of approximate counting. 
+#### Misc
 
-Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside, as I can no longer devote any much towards competitive gaming.
+* Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside, as I can no longer devote any much towards competitive gaming.
+* My [Erdős-Bacon-Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is **infinity** - I am not revealing the Erdős number here ;)
 
 ---
 
 ## Research
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
+
+**Towards derandomising Markov chain Monte Carlo**  
+*with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
+*submitted*  
+[[arxiv]](https://arxiv.org/abs/2211.03487) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
@@ -85,3 +91,4 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 * [MIT 18.225: Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtac/)
 * [Markov Chains and Mixing Times (2nd Edition)](https://yuvalperes.com/markov-chains-and-mixing-times-2/)
 * [Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)
+* [Property Testing Review](https://ptreview.sublinear.info/)
