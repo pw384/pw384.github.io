@@ -3,10 +3,13 @@
 
 @import "{{ site.theme }}";
 
-body {font-family: arial;}
+body {
+	font-family: arial;
+}
 
 header {
 	padding: 15px 20px 30px 20px;
+	position: fixed;
 	background: #fcfcfc;
 	min-height: 50px;
 	h1 {
@@ -21,7 +24,7 @@ header {
 section {
 	padding: 15px 20px 30px 20px;
 	width: 760px;
-	margin-top: 150px;
+	margin-top: 120px;
 	background: #fcfcfc;
 
 }
@@ -41,6 +44,7 @@ nav {
 	border: 0px;
 	width: 100%;
 	top: 85px;
+	height: 20px; 
 	.button {
 		border: 1px solid #000000;
 		background: #eeeeee;
@@ -85,5 +89,3 @@ footer {
 	}
 }
 }
-
-

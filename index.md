@@ -31,6 +31,11 @@ My research interest lies in several topics in theoretical computer science. To 
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+**Inapproximability of counting independent sets in linear hypergraphs**  
+*with* [Guoliang Qiu](https://jhc.sjtu.edu.cn/)  
+preprint *(intended for publication?)*  
+[[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
+
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
 *submitted*  
