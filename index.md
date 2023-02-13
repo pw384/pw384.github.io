@@ -58,7 +58,7 @@ preprint *(intended for publication?)*
 
 **Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**ACM Transactions on Computation Theory**, *to appear*  
+**ACM Transactions on Computation Theory**, 14(3-4):10, pp. 1-33, 2022  
 [[doi]](https://doi.org/10.1145/3558554) | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the degree of boolean functions as polynomials over \\(\mathbb{Z}_m\\)**  
@@ -97,3 +97,4 @@ preprint *(intended for publication?)*
 * [Markov Chains and Mixing Times (2nd Edition)](https://yuvalperes.com/markov-chains-and-mixing-times-2/)
 * [Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)
 * [Property Testing Review](https://ptreview.sublinear.info/)
+* [FPT Wiki](http://fpt.wikidot.com/)
