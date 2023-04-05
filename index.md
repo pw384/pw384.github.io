@@ -11,7 +11,7 @@ permalink: /
 Room 5.34, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 23/01/2023)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 05/04/2023)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
@@ -32,14 +32,14 @@ My research interest lies in several topics in theoretical computer science. To 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
-*with* [Guoliang Qiu](https://jhc.sjtu.edu.cn/)  
-preprint *(intended for publication?)*  
+*with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
+*submitted*  
 [[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
 
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
 *submitted*  
-[[arxiv]](https://arxiv.org/abs/2211.03487) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)
+[[arxiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
