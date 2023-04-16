@@ -29,72 +29,29 @@ My research interest lies in several topics in theoretical computer science. To 
 
 ## Research
 
-PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
+For a full list of research articles, please view [this page](/research).
 
-**Inapproximability of counting independent sets in linear hypergraphs**  
-*with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
-*submitted*  
-[[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
+<p style="font-size:14pt; font-weight:bold"> I take pride in the following selected papers: </p>
 
-**Towards derandomising Markov chain Monte Carlo**  
-*with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
-*submitted*  
-[[arxiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)
+**Inapproximability of counting hypergraph colourings**  
+*with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+**ACM Trans. Comput. Theory**, 14(3-4):10, pp. 1-33, 2022  
+* This is my debut paper in the study of approximate algorithms, and a showcase of my mathematical analysis skills.  
+* We show that approximately counting hypergraph colourings remains hard even within the Lovász local lemma (LLL) regime, under which the searching problem is tractable due to Moser-Tardos Algorithm. The hardness bound we obtain is square-root of that for the searching problem. Therefore, we confirm the "sampling-is-computationally-harder" phenomenon for this prototypical problem where LLL was originally developed. 
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 **SOSA 2023**  
-[[doi]](https://doi.org/10.1137/1.9781611977585.ch30) | [[arXiv]](https://arxiv.org/abs/2208.00740v2) | [[PDF]](/assets/papers/dtv_alg.pdf) | [[slides]](/assets/slides/dtv_sosa.pptx)
-
-**Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
-*with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-*submitted*  
-[[arXiv]](https://arxiv.org/abs/2205.01985v2) | [[PDF]](/assets/papers/grand_model.pdf)
-
-**Improved bounds for randomly colouring simple hypergraphs**  
-*with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**RANDOM 2022**  
-[[doi]](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.25) | [[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf) | [[slides]](/assets/slides/linear_lll_slides.pdf)
-
-**Inapproximability of counting hypergraph colourings**  
-*with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**ACM Transactions on Computation Theory**, 14(3-4):10, pp. 1-33, 2022  
-[[doi]](https://doi.org/10.1145/3558554) | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
-
-**On the degree of boolean functions as polynomials over \\(\mathbb{Z}_m\\)**  
-*with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://theory.ict.ac.cn/en/members/xiazhiyu/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
-**ICALP 2020**  
-[[doi]](https://doi.org/10.4230/LIPIcs.ICALP.2020.100) | [[arXiv]](https://arxiv.org/abs/1910.12458) | [[PDF]](/assets/papers/degm.pdf) | [[slides]](/assets/slides/degm_icalp20.pdf)
-
----
-
-## Teaching
-
-#### At University of Edinburgh
-
-* Introduction to Algorithms and Data Structures ([INFR08026](http://www.drps.ed.ac.uk/22-23/dpt/cxinfr08026.htm), 2022/23 (whole year), TA)
-* Randomized Algorithms ([INFR11201](http://www.drps.ed.ac.uk/22-23/dpt/cxinfr11201.htm), 2022 Autumn, Tutor)
-* Introduction to Algorithms and Data Structures ([INFR08026](http://www.drps.ed.ac.uk/21-22/dpt/cxinfr08026.htm), 2021/22 (whole year), TA)
-
-#### At Peking University
-
-* Introduction to the Theory of Computation (04833440, 2020 Spring, TA)
-* Randomized Algorithms (04834010, 2020 Spring, TA)
-* Introduction to Computer Systems (04833040 / 04832363, 2019 Fall, TA)
-* Introduction to the Theory of Computation (04833440, 2019 Spring, TA)
-* Introduction to Computer Systems (04833040 / 04832363, 2018 Fall, TA)
+* This is a showcase of simplicity that, albeit within 5 pages, exploits and manipulates the fundamental aspect of coupling, a tool that is used frequently in probability theory.  
+* We give {Insert title here}, despite the exact computation is known to be #P-hard and does not admit any polynomial-time algorithm unless FP=#P.  
 
 ---
 
 ## Useful Links
 
-* [Useful inequalities](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf) ([local copy](/assets/resources/ineq.pdf))
-* [mathcha](https://mathcha.io) (I use this site to generate pics/graphs for slides)
-* [TCS Jobs](https://cstheory-jobs.org/)
-* [Math Jobs](https://www.mathjobs.org/)
-* [UW CSE599: Counting and Sampling](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html)
-* [MIT 18.225: Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtac/)
-* [Markov Chains and Mixing Times (2nd Edition)](https://yuvalperes.com/markov-chains-and-mixing-times-2/)
-* [Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)
-* [Property Testing Review](https://ptreview.sublinear.info/)
-* [FPT Wiki](http://fpt.wikidot.com/)
+Tools: [Useful inequalities](https://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf) || [mathcha](https://mathcha.io)  
+Job hunting: [TCS Jobs](https://cstheory-jobs.org/) || [Math Jobs](https://www.mathjobs.org/)  
+OA books / notes: [UW CSE599](https://homes.cs.washington.edu/~shayan/courses/sampling/index.html) || [MIT 18.225](https://yufeizhao.com/gtac/) || [Levin-Peres](https://yuvalperes.com/markov-chains-and-mixing-times-2/) || [Arora-Barak](https://theory.cs.princeton.edu/complexity/) || [Friedli-Velenik](https://www.unige.ch/math/folks/velenik/smbook/)  
+Good TCS websites: [Complexity Zoo](https://complexityzoo.net/) || [Property Testing Review](https://ptreview.sublinear.info/) || [FPT Wiki](http://fpt.wikidot.com/)  
+Miscellaneous: [Encyclopaedia Metallum](http://metal-archives.com/) 
+
