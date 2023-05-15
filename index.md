@@ -41,7 +41,7 @@ For a full list of research articles, please view [this page](/research).
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-**SOSA 2023**  
+**TheoretiCS**, *to appear* (preliminary version in **SOSA 2023**)  
 * This is a showcase of simplicity that, albeit within 5 pages, exploits and manipulates the fundamental aspect of coupling, a tool that is used frequently in probability theory.  
 * We give {Insert title here}, despite the exact computation is known to be #P-hard and does not admit any polynomial-time algorithm unless FP=#P.  
 

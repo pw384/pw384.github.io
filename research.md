@@ -20,7 +20,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-**SOSA 2023**  
+**TheoretiCS**, *to appear* (preliminary version in **SOSA 2023**)  
 [[doi]](https://doi.org/10.1137/1.9781611977585.ch30) | [[arXiv]](https://arxiv.org/abs/2208.00740v2) | [[PDF]](/assets/papers/dtv_alg.pdf) | [[slides]](/assets/slides/dtv_sosa.pptx)
 
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
