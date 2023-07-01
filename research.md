@@ -20,7 +20,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
-*submitted*  
+**FOCS 2023**  
 [[arxiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
