@@ -16,9 +16,13 @@ Edinburgh, EH8 9AB, Scotland, UK
 
 ## About Me
 
-I am a third-year PhD student at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. My undergraduate research advisor is [Xiaoming Sun](http://theory.ict.ac.cn/en/) from Institute of Computing Technology, CAS. I also worked with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan) and [Chihao Zhang](http://chihaozhang.com/) for my last few months of my undergraduate study. 
+I am a PhD student (on thesis interruption) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
+
+I will start as a postdoctoral research associate (PDRA) at the University of Edinburgh since Autumn 2023. 
 
 My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes (randomised) algorithms and complexity of approximate counting, and extremal/probabilistic combinatorics. 
+
+The focus of my recent research is different aspects of approximate counting problems beyond (in)tractability, such as random structures, derandomisation, fine-grained perspective, parameterised counting, applications to other fields, and so on. 
 
 #### Misc
 
@@ -31,7 +35,7 @@ My research interest lies in several topics in theoretical computer science. To 
 
 For a full list of research articles, please view [this page](/research).
 
-<p style="font-size:14pt; font-weight:bold"> I take pride in the following selected papers: </p>
+<p style="font-size:13pt; font-weight:bold"> I take pride in the following selected papers: </p>
 
 **Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
