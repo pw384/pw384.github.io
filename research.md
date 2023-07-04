@@ -31,7 +31,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **Information and Computation**, *accepted*  
-[[arXiv]](https://arxiv.org/abs/2205.01985v2) | [[PDF]](/assets/papers/grand_model.pdf)
+[[journal]](https://doi.org/10.1016/j.ic.2023.105066) | [[arXiv]](https://arxiv.org/abs/2205.01985v2) | [[PDF]](/assets/papers/grand_model.pdf)
 
 **Improved bounds for randomly colouring simple hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
