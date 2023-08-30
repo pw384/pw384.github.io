@@ -11,7 +11,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Approximate counting for spin systems in sub-quadratic time**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 *submitted*  
-[[arxiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)
+[[arxiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf) | [[PPT]](/assets/slides/subquadratic_shonan.pptx)
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
 *with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
