@@ -16,9 +16,7 @@ Edinburgh, EH8 9AB, Scotland, UK
 
 ## About Me
 
-I am a PhD student (on thesis interruption) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). It is an honour for me to be supervised by [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I obtained Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
-
-I will start as a postdoctoral research associate (PDRA) at the University of Edinburgh since Autumn 2023. 
+I am currently a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
 
 My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes (randomised) algorithms and complexity of approximate counting, and extremal/probabilistic combinatorics. 
 
