@@ -15,7 +15,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
 *with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
-*submitted*  
+**Information Processing Letters**, accepted  
 [[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
 
 **Towards derandomising Markov chain Monte Carlo**  
@@ -30,7 +30,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**Information and Computation**, *accepted*  
+**Information and Computation**, Volume 294, Article 105066, 1-34, 2023  
 [[journal]](https://doi.org/10.1016/j.ic.2023.105066) | [[arXiv]](https://arxiv.org/abs/2205.01985v2) | [[PDF]](/assets/papers/grand_model.pdf)
 
 **Improved bounds for randomly colouring simple hypergraphs**  
@@ -40,7 +40,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**ACM Transactions on Computation Theory**, 14(3-4):10, pp. 1-33, 2022  
+**ACM Transactions on Computation Theory**, 14(3-4):10, 1-33, 2022  
 [[journal]](https://doi.org/10.1145/3558554) | [[arXiv]](https://arxiv.org/abs/2107.05486) | [[PDF]](/assets/papers/hc_hardness.pdf) | [[slides]](/assets/slides/hc_hardness_slides.pdf)
 
 **On the degree of boolean functions as polynomials over \\(\mathbb{Z}_m\\)**  
