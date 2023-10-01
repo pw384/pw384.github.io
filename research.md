@@ -16,7 +16,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Inapproximability of counting independent sets in linear hypergraphs**  
 *with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
 **Information Processing Letters**, accepted  
-[[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
+[[journal]](https://doi.org/10.1016/j.ipl.2023.106448) | [[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
 
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
