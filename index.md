@@ -8,7 +8,7 @@ permalink: /
 
 
 **Address:**  
-Room 5.34, Informatics Forum, 10 Crichton Street,  
+Room 5.08, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
 **Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
 **CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 24/09/2023 dd/mm/yyyy)  
@@ -18,22 +18,22 @@ Edinburgh, EH8 9AB, Scotland, UK
 
 I am currently a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
 
-My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures. That includes (randomised) algorithms and complexity of approximate counting, and extremal/probabilistic combinatorics. 
-
-The focus of my recent research is different aspects of approximate counting problems beyond (in)tractability, such as random structures, derandomisation, fine-grained perspective, parameterised counting, applications to other fields, and so on. 
-
 #### Misc
 
-* Aside from academic topics, I am also fond of abundant recreations, from playing bass guitar to video games. Unfortunately, my busy days force me to put those hobbies aside, as I can no longer devote any much towards competitive gaming.
-* My [Erdős-Bacon-Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is **infinity** - I am not revealing the Erdős number here ;)
+* My [Erdős-Bacon-Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is **infinity** - I am not revealing the Erdős number here (but it is 3). One of my life goals is to bound this number by a constant. 
+* If you add "misc" after the slash of this page's URL then you could find some personal stuff like hobbies. 
 
 ---
 
 ## Research
 
+My research interest lies in several topics in theoretical computer science. To be more precise, I enjoy problems with inspiring combinatorial structures and/or surprising computational hardness. That includes (randomised) algorithms and complexity of approximate counting, and extremal/probabilistic combinatorics. 
+
+The focus of my recent research is different aspects of approximate counting problems beyond (in)tractability, such as random structures, derandomisation, fine-grained perspective, parameterised counting, applications to other fields, and so on. 
+
 For a full list of research articles, please view [this page](/research).
 
-<p style="font-size:13pt; font-weight:bold"> I take pride in the following selected papers: </p>
+<p style="font-size:13pt; font-weight:bold"> Two selected papers: </p>
 
 **Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  

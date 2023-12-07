@@ -4,20 +4,27 @@ title: Misc
 permalink: /misc
 ---
 
-## Good metal albums
+[[Back]](/)
 
-Here's a list of metal *albums* that I find euphorically enjoyable 😋! Warning: I'm not a metalhead so do not expect super brutal stuff from me.  
-Linkin Park or System of a Down or whatever is somehow more on the rock side, so it's not in the list. (I am applying the criteria of Encyclopaedia Metallum, sorry!)  
-Sorted in alphabetical order. Also I'm trying to include only one album per capita.
+### Personal stuff
 
-* Amon Amarth - Twilight of the Thunder God (2008)  
-* Ensiferum - Ensiferum (2001)  
-* Finntroll - Nattfödd (2004)
-* Insomnium - Heart like a Grave (2019)  
-* Nightwish - Imaginarerum (2011)  
-* Shylmagoghnar - Emergence (2014)  
-* Wintersun - Wintersun (2004)  
-* Within Temptation - The Unforgiving (2011)  
+##### Music
+One of my biggest hobbies is metal music, especially songs featuring intensive guitar riffs, low-pitch harsh vocals and/or usage of folk instrument. 
+Some of my favourite albums include [*Ensiferum*](https://www.metal-archives.com/albums/Ensiferum/Ensiferum/1240) (Ensiferum, 2001) [*Nattfödd*](https://www.metal-archives.com/albums/Finntroll/Nattf%C3%B6dd/36880) (Finntroll, 2004), [*Wintersun*](https://www.metal-archives.com/albums/Wintersun/Wintersun/50930) (Wintersun, 2004), [*Twilight of the Thunder God*](https://www.metal-archives.com/albums/Amon_Amarth/Twilight_of_the_Thunder_God/205093) (Amon Amarth, 2008), [*Imaginaerum*](https://www.metal-archives.com/albums/Nightwish/Imaginaerum/316252) (Nightwish, 2011), [*The Unforgiving*](https://www.metal-archives.com/albums/Within_Temptation/The_Unforgiving/294496) (Within Temptation, 2011), [*Winterborn*](https://www.metal-archives.com/albums/Wolfheart/Winterborn/389821) (Wolfheart, 2013), [*Emergence*](https://www.metal-archives.com/albums/Shylmagoghnar/Emergence/403637) (Shylmagoghnar, 2014), [*Heart like a Grave*](https://www.metal-archives.com/albums/Insomnium/Heart_like_a_Grave/787148) (Insomnium, 2019), [*Martaiden Mailta*](https://www.metal-archives.com/albums/Marrasmieli/Martaiden_mailta/1025547) (Marrasmieli, 2022). 
+You should now get the vibe! 
 
-May update constantly to recollect stuff that slips off my head right now.
+I also enjoy playing bass guitar. Though I am really bad at it, it is still a lot of fun to play after those decent songs.  
+My favourite scales are b-flat minor (the one with 5 flats) and a-flat minor (with 7 flats), and I love the chord progression i-Vi-iv-V (Am-F-Dm-E) so much. 
 
+##### Video games
+[Here](https://steamcommunity.com/id/pw384/) is my Steam account if you are interested. 
+I quite like FPS, roguelike, puzzle, survival and simulation games, with notable ones being *Portal*/*Portal 2*, *L4D2*, *Slay the Spire*, *Euro Truck Simulator 2* and so on.  
+I have achieved ALL achievements in StS!  
+Unfortunately, I am too old to do any competitive gaming, so video games are indeed just for *fun*. 
+
+##### Other forms of arts
+I do not know how to appreciate visual arts, and I watch neither films or TV shows (opera/musical films are exceptions, e.g., *Les Misérables*) unless someone invites me to do such. 
+
+##### Sprachen
+Nur aus Interesse lerne ich auch Deutsch, aber ich bin erst am Anfang des Lernens (circa A2) und oft mache ich Fehler. 
+Ich würde es sehr schätzen, wenn Sie mir mit Übungen helfen könnten. 
