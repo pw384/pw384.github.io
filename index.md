@@ -10,8 +10,8 @@ permalink: /
 **Address:**  
 Room 5.08, Informatics Forum, 10 Crichton Street,  
 Edinburgh, EH8 9AB, Scotland, UK  
-**Email:** *pw384 # hotmail # com* OR *jiaheng.wang # ed # ac # uk*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 24/09/2023 dd/mm/yyyy)  
+**Email:** *pw384 # hotmail # com*  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 14/04/2024 dd/mm/yyyy)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
@@ -20,7 +20,7 @@ I am currently a Postdoctoral Research Associate (PDRA) at the [School of Inform
 
 #### Misc
 
-* My [Erdős-Bacon-Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is **infinity** - I am not revealing the Erdős number here (but it is 3). One of my life goals is to bound this number by a constant. 
+* My [Erdős-Bacon-Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is **infinity** - I am not revealing the Erdős number here (it's a constant). One of my life goals is to bound this number by a constant. 
 * If you add "misc" after the slash of this page's URL then you could find some personal stuff like hobbies. 
 
 ---
