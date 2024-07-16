@@ -8,15 +8,15 @@ permalink: /
 
 
 **Address:**  
-Room 5.08, Informatics Forum, 10 Crichton Street,  
-Edinburgh, EH8 9AB, Scotland, UK  
+Faculty of Informatics and Data Science,  
+University of Regensburg, 93053 Regensburg, Germany  
 **Email:** *pw384 # hotmail # com*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 14/04/2024 dd/mm/yyyy)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 16/07/2024 dd/mm/yyyy)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
 
-I am currently a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Prior to that, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
+I am currently a postdoctoral researcher at the [Faculty of Informatics and Data Science, University of Regensburg](https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html). Prior to this, I was a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Even earlier, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
 
 #### Misc
 
