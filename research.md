@@ -8,12 +8,16 @@ permalink: /research
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+**Rapid mixing of the flip chain over non-crossing spanning trees**  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
+*submitted*  
+
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
 *with* [Isja Mannens](https://www.uu.nl/staff/IMEMannens)  
 *submitted*  
 
 **Approximate counting for spin systems in sub-quadratic time**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **ICALP 2024**, *to appear*  
 [[arxiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf) | [[PowerPoint]](/assets/slides/subquadratic.pptx)
 

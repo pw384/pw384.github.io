@@ -16,7 +16,7 @@ University of Regensburg, 93053 Regensburg, Germany
 
 ## About Me
 
-I am currently a postdoctoral researcher at the [Faculty of Informatics and Data Science, University of Regensburg](https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html). Prior to this, I was a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Even earlier, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
+I am currently a postdoctoral researcher at the [Faculty of Informatics and Data Science, University of Regensburg](https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html), working in the Algorithms and Complexity Theory group (Lehrstuhl) led by [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/algorithmen-komplexitaetstheorie/team/prof-dr-radu-curticapean/index.html). Prior to this, I was a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Even earlier, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
 
 #### Misc
 
