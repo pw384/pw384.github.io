@@ -11,6 +11,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 *submitted*  
+[[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
 
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
 *with* [Isja Mannens](https://www.uu.nl/staff/IMEMannens)  
@@ -19,18 +20,18 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Approximate counting for spin systems in sub-quadratic time**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **ICALP 2024**  
-[[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arxiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
+[[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
 Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
 *with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
 **Information Processing Letters**, Volume 184, Article 106448, 1-6, 2023  
-[[journal]](https://doi.org/10.1016/j.ipl.2023.106448) | [[arxiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
+[[journal]](https://doi.org/10.1016/j.ipl.2023.106448) | [[arXiv]](https://arxiv.org/abs/2212.03072) | [[PDF]](/assets/papers/linear_indset_hardness.pdf)
 
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
 **FOCS 2023**  
-[[conference]](https://doi.org/10.1109/FOCS57990.2023.00120) | [[arxiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)  
+[[conference]](https://doi.org/10.1109/FOCS57990.2023.00120) | [[arXiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)  
 Talk slides in BARC: [[PowerPoint]](/assets/slides/cttp_barc.pptx)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
