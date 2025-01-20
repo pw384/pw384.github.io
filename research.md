@@ -25,8 +25,8 @@ Talk slides in Edinburgh: [[Slides] (only work with Adobe Acrobat)](/assets/slid
 
 **Approximate counting for spin systems in sub-quadratic time**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**TheoretiCS**, to appear. (preliminary version in **ICALP 2024**)  
-[[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
+**TheoretiCS**, Volume 4 (2025), Article 3, 1-27 (preliminary version in **ICALP 2024**)  
+[[journal]](https://theoretics.episciences.org/15062) | [[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
 Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
