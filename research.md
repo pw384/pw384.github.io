@@ -16,7 +16,7 @@ Talk slides in Edinburgh: [[Slides] (only work with Adobe Acrobat)](/assets/slid
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-*submitted*  
+**SoCG 2025**  
 [[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
 
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
