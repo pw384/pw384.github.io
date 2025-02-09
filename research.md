@@ -8,6 +8,10 @@ permalink: /research
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+**Sink-free orientations: a local sampler with applications**  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
+*submitted*  
+
 **Can you link up with treewidth?**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatics-data-science/algorithms-complexity-theory/team/prof-dr-radu-curticapean/index.html), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
 **STACS 2025**, to appear  
