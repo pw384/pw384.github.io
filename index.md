@@ -31,21 +31,7 @@ My research interest lies in several topics in theoretical computer science. To 
 
 The focus of my recent research is different aspects of approximate counting problems beyond (in)tractability, such as random structures, derandomisation, fine-grained perspective, parameterised counting, applications to other fields, and so on. 
 
-For a full list of research articles, please view [this page](/research).
-
-<p style="font-size:13pt; font-weight:bold"> Two selected papers: </p>
-
-**Inapproximability of counting hypergraph colourings**  
-*with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
-**ACM Trans. Comput. Theory**, 14(3-4):10, pp. 1-33, 2022  
-* This is my debut paper in the study of approximate algorithms, and a showcase of my mathematical analysis skills.  
-* We show that approximately counting hypergraph colourings remains hard even within the Lovász local lemma (LLL) regime, under which the searching problem is tractable due to Moser-Tardos Algorithm. The hardness bound we obtain is square-root of that for the searching problem. Therefore, we confirm the "sampling-is-computationally-harder" phenomenon for this prototypical problem where LLL was originally developed. 
-
-**A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
-*with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-**TheoretiCS**, Volume 2 (2023), Article 8, 1-7 (preliminary version in **SOSA 2023**)  
-* This is a showcase of simplicity that, albeit within 5 pages, exploits and manipulates the fundamental aspect of coupling, a tool that is used frequently in probability theory.  
-* We give {Insert title here}, despite the exact computation is known to be #P-hard and does not admit any polynomial-time algorithm unless FP=#P.  
+Please view [this page](/research) for a list of research outputs.
 
 ---
 

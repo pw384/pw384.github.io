@@ -11,6 +11,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Sink-free orientations: a local sampler with applications**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
 *submitted*  
+[[arXiv]](https://arxiv.org/abs/2502.05877) | [[PDF]](/assets/papers/sink_free_orientations.pdf)  
 
 **Can you link up with treewidth?**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatics-data-science/algorithms-complexity-theory/team/prof-dr-radu-curticapean/index.html), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
