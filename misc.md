@@ -25,8 +25,7 @@ Unfortunately, I am too old to do any competitive gaming, so video games are ind
 ##### Other forms of arts
 I do not know how to appreciate visual arts, and I watch neither films or TV shows (opera/musical films are exceptions, e.g., *Les Misérables*) unless someone invites me to do such. 
 
-##### Sprachen
-Nur aus Interesse lerne ich auch Deutsch, aber ich bin erst am Anfang des Lernens (circa A2) und oft mache ich Fehler. 
+##### Sprachen / Språken
+Nur aus Interesse lerne ich auch Deutsch (och det svenska språket), aber ich bin erst am Anfang des Lernens (circa A2) und oft mache ich Fehler. 
 Ich würde es sehr schätzen, wenn Sie mir mit Übungen helfen könnten. 
 
-Update: Ja ich bin jetzt in Deutschland!
