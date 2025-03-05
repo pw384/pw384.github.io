@@ -17,7 +17,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatics-data-science/algorithms-complexity-theory/team/prof-dr-radu-curticapean/index.html), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
 **STACS 2025**  
 [[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
-Talk slides in Edinburgh: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage.pdf)  
+Talk slides during STACS: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-stacs.pdf)  
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
 *with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
