@@ -9,7 +9,7 @@ permalink: /research
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
 **Sink-free orientations: a local sampler with applications**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
 *submitted*  
 [[arXiv]](https://arxiv.org/abs/2502.05877) | [[PDF]](/assets/papers/sink_free_orientations.pdf)  
 
@@ -20,7 +20,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 Talk slides during STACS: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-stacs.pdf)  
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 **SoCG 2025**, to appear  
 [[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
 
@@ -29,7 +29,7 @@ Talk slides during STACS: [[Slides] (only work with Adobe Acrobat)](/assets/slid
 *submitted*  
 
 **Approximate counting for spin systems in sub-quadratic time**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://www.inf.ed.ac.uk/people/students/Graham_Freifeld.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **TheoretiCS**, Volume 4 (2025), Article 3, 1-27 (preliminary version in **ICALP 2024**)  
 [[journal]](https://theoretics.episciences.org/15062) | [[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
 Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
@@ -41,8 +41,8 @@ Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
 
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
-**SIAM Journal on Computing**, *accepted* (preliminary version in **FOCS 2023**)  
-[[conference]](https://doi.org/10.1109/FOCS57990.2023.00120) | [[arXiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)  
+**SIAM Journal on Computing**, Vol. 54, Iss. 3, pp. 775--813, 2025 (preliminary version in **FOCS 2023**)  
+[[journal]](https://epubs.siam.org/doi/full/10.1137/24M1663806) | [[conference]](https://doi.org/10.1109/FOCS57990.2023.00120) | [[arXiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)  
 Talk slides in BARC: [[PowerPoint]](/assets/slides/cttp_barc.pptx)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
