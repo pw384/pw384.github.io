@@ -9,7 +9,7 @@ permalink: /research
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
 **Sink-free orientations: a local sampler with applications**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
+*with* [Konrad Anand](https://konradanand.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
 *submitted*  
 [[arXiv]](https://arxiv.org/abs/2502.05877) | [[PDF]](/assets/papers/sink_free_orientations.pdf)  
 
@@ -20,16 +20,16 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 Talk slides during STACS: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-stacs.pdf)  
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
-**SoCG 2025**, to appear  
-[[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
+*with* [Konrad Anand](https://konradanand.github.io/), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
+**SoCG 2025**  
+[[conference]](https://doi.org/10.4230/LIPIcs.SoCG.2025.8) | [[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
 
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
 *with* [Isja Mannens](https://www.uu.nl/staff/IMEMannens)  
 *submitted*  
 
 **Approximate counting for spin systems in sub-quadratic time**  
-*with* [Konrad Anand](https://dblp.org/pid/264/4971.html), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
+*with* [Konrad Anand](https://konradanand.github.io/), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 **TheoretiCS**, Volume 4 (2025), Article 3, 1-27 (preliminary version in **ICALP 2024**)  
 [[journal]](https://theoretics.episciences.org/15062) | [[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
 Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
