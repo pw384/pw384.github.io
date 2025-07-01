@@ -10,7 +10,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Sink-free orientations: a local sampler with applications**  
 *with* [Konrad Anand](https://konradanand.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
-*submitted*  
+**RANDOM 2025**  
 [[arXiv]](https://arxiv.org/abs/2502.05877) | [[PDF]](/assets/papers/sink_free_orientations.pdf)  
 
 **Can you link up with treewidth?**  
