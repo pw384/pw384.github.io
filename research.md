@@ -8,13 +8,17 @@ permalink: /research
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+**Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
+*with* [Cornelius Brand](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/cornelius-brand), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
+*submitted*
+
 **Sink-free orientations: a local sampler with applications**  
 *with* [Konrad Anand](https://konradanand.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
 **RANDOM 2025**  
 [[arXiv]](https://arxiv.org/abs/2502.05877) | [[PDF]](/assets/papers/sink_free_orientations.pdf)  
 
 **Can you link up with treewidth?**  
-*with* [Radu Curticapean](https://www.uni-regensburg.de/informatics-data-science/algorithms-complexity-theory/team/prof-dr-radu-curticapean/index.html), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
+*with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
 **STACS 2025**  
 [[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
 Talk slides in Paris: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-paris.pdf)  
