@@ -11,7 +11,7 @@ permalink: /
 Faculty of Informatics and Data Science,  
 University of Regensburg, 93053 Regensburg, Germany  
 **Email:** *pw384 # hotmail # com*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 09/02/2026 dd/mm/yyyy)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 13/02/2026 dd/mm/yyyy)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## About Me
