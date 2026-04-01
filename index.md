@@ -8,15 +8,14 @@ permalink: /
 
 
 **Address:**  
-Faculty of Informatics and Data Science,  
-University of Regensburg, 93053 Regensburg, Germany  
+Department of Computer Science, University of Helsinki    
 **Email:** *pw384 # hotmail # com*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 13/02/2026 dd/mm/yyyy)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 01/04/2026 dd/mm/yyyy)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
-## About Me
+## Hej! 
 
-I am currently a postdoctoral researcher at the [Faculty of Informatics and Data Science, University of Regensburg](https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html), working in the Algorithms and Complexity Theory group (Lehrstuhl) led by [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/algorithmen-komplexitaetstheorie/team/prof-dr-radu-curticapean/index.html). Prior to this, I was a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the same university under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Even earlier, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
+I am currently a postdoctoral fellow at [Helsinki Institute for Information Technology (HIIT)](https://www.hiit.fi) (a joint institute between [University of Helsinki](https://helsinki.fi) and [Aalto University](https://aalto.fi), see also [HALT](https://algorithms.fi/)), hosted by [Mikko Koivisto](https://www.cs.helsinki.fi/u/mkhkoivi/). Before that, I was a postdoctoral researcher at the [Faculty of Informatics and Data Science, University of Regensburg](https://www.uni-regensburg.de/informatik-data-science/fakultaet/startseite/index.html), working in the Algorithms and Complexity Theory group (Lehrstuhl) led by [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/algorithmen-komplexitaetstheorie/team/prof-dr-radu-curticapean/index.html), and a Postdoctoral Research Associate (PDRA) at the [School of Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics/). I obtained a PhD degree at the University of Edinburgh under the supervision of [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/). Even earlier, I got a Bachelor of Science *(summa cum laude)* at [Peking University](http://english.pku.edu.cn/) and was a member of PKU's Turing Class. Previous experience could be found in the CV provided above. 
 
 #### Misc
 
