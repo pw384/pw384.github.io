@@ -54,7 +54,7 @@ Talk slides in BARC: [[PowerPoint]](/assets/slides/cttp_barc.pptx)
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 **TheoretiCS**, Volume 2 (2023), Article 8, 1-7 (preliminary version in **SOSA 2023**)  
 [[journal]](https://theoretics.episciences.org/11465) | [[conference]](https://doi.org/10.1137/1.9781611977585.ch30) | [[arXiv]](https://arxiv.org/abs/2208.00740v3) | [[PDF]](/assets/papers/dtv_alg.pdf)  
-Talk slides in Oxford: [[PowerPoint]](/assets/slides/dtv_oxford.pptx)
+Talk slides in Aalto: [[PowerPoint]](/assets/slides/dtv.pptx)
 
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
