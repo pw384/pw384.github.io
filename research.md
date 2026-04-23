@@ -8,8 +8,12 @@ permalink: /research
 
 PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+**Partition Rank and Algebraic Circuit Lower Bounds**  
+*with* [Cornelius Brand](https://dblp.org/pid/182/2067.html) and [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski)  
+*submitted*  
+
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
-*with* [Cornelius Brand](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/cornelius-brand), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
+*with* [Cornelius Brand](https://dblp.org/pid/182/2067.html), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
 *submitted*  
 [[arXiv]](https://arxiv.org/abs/2602.11975) | [[PDF]](/assets/papers/high-order-tensor.pdf)  
 
