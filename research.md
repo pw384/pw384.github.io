@@ -32,6 +32,7 @@ Talk slides in Paris: [[Slides] (only work with Adobe Acrobat)](/assets/slides/l
 *with* [Konrad Anand](https://konradanand.github.io/), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 **SoCG 2025**  
 [[conference]](https://doi.org/10.4230/LIPIcs.SoCG.2025.8) | [[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
+Poster in HALG: [[PDF]](/assets/slides/ncst-poster.pdf)  
 
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
 *with* [Isja Mannens](https://www.uu.nl/staff/IMEMannens)  
