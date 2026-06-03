@@ -12,7 +12,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
 *preprint*  
-[[arxiv]]() | [[PDF]](/assets/papers/fkt-lower-bound.pdf)  
+[[arxiv]](https://arxiv.org/abs/2606.03975) | [[PDF]](/assets/papers/fkt-lower-bound.pdf)  
 
 **Partition Rank and Algebraic Circuit Lower Bounds**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html) and [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski)  
