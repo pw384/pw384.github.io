@@ -16,7 +16,7 @@ PDF versions are always up-to-date. Authors are listed according to the [alphabe
 
 **Partition Rank and Algebraic Circuit Lower Bounds**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html) and [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski)  
-*submitted*  
+**ESA 2026**, *to appear*  
 
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
