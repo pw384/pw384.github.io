@@ -6,18 +6,18 @@ permalink: /research
 
 [[Back]](/)
 
-PDF versions are always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
+PDF versions are NOT always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
 
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
 *preprint*  
-[[arxiv]](https://arxiv.org/abs/2606.03975) | [[PDF]](/assets/papers/fkt-lower-bound.pdf)  
+[[arXiv]](https://arxiv.org/abs/2606.03975) | [[PDF]](/assets/papers/fkt-lower-bound.pdf)  
 
 **Partition Rank and Algebraic Circuit Lower Bounds**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html) and [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski)  
 **ESA 2026**, *to appear*  
-[[PDF]](/assets/papers/two-slice-rank.pdf)  
+[[arXiv]](https://arxiv.org/abs/2607.02241) | [[PDF]](/assets/papers/two-slice-rank.pdf)  
 
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  

@@ -1,0 +1,489 @@
+\documentclass[A4Paper, UTF8, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+% ------------------------------------------------------------
+% Packages
+% ------------------------------------------------------------
+\usepackage[margin=2.2cm]{geometry}
+\usepackage[tt=false]{libertine}
+\usepackage{DejaVuSansCondensed}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+\usepackage{amsfonts}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+% ------------------------------------------------------------
+% Colors
+% ------------------------------------------------------------
+\colorlet{HeaderBlue}{MidnightBlue}
+\colorlet{SectionRed}{BrickRed}
+
+% ------------------------------------------------------------
+% Page setup
+% ------------------------------------------------------------
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[R]{Page \thepage \hspace{1pt} of \pageref{LastPage}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\hypersetup{
+    colorlinks=true,
+    urlcolor=white,
+    linkcolor=white
+}
+
+% ------------------------------------------------------------
+% Custom lengths
+% ------------------------------------------------------------
+\newlength{\headerheight}
+\setlength{\headerheight}{0.25\paperheight}
+
+\newlength{\datewidth}
+\setlength{\datewidth}{3.2cm}
+
+\newlength{\contentwidth}
+\setlength{\contentwidth}{\dimexpr\textwidth-\datewidth\relax}
+
+% ------------------------------------------------------------
+% Header
+% ------------------------------------------------------------
+\newcommand{\makecvheader}{
+    % Blue background occupying the top quarter of the first page
+    \begin{tikzpicture}[remember picture, overlay]
+        \fill[HeaderBlue]
+            (current page.north west)
+            rectangle
+            ([yshift=-\headerheight]current page.north east);
+    \end{tikzpicture}
+
+    \vspace*{-1.4cm}
+
+    \noindent
+    \begin{minipage}[c][\headerheight][c]{0.45\textwidth}
+        \color{white}
+        \sffamily
+        {\fontsize{30}{34}\selectfont\bfseries Jiaheng Wang}\\[0.5em]
+        %{\fontsize{30}{34}\selectfont\bfseries Jiaheng Wang}{\fontsize{20}{24} ~~~\begin{CJK}{UTF8}{gbsn}王家恒\end{CJK}}\\[0.5em]
+        {\fontsize{15}{18}\selectfont HIIT Postdoctoral Fellow}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[c][\headerheight][c]{0.54\textwidth}
+        \raggedleft
+        \color{white}
+        \sffamily
+        {\fontsize{10}{12}\selectfont
+        \faMapMarker* \hspace{0.35em} Exactum, Pietari Kalmin katu 5, 00560 Helsinki, Finland\\[0.35em]
+        \faEnvelope \hspace{0.35em} {pw384\,@\,hotmail.com} / {jiaheng.wang\,@\,helsinki.fi}\\[0.35em]
+        \faGlobe \hspace{0.35em} \href{https://pw384.github.io}{{pw384.github.io}} ~$|$~
+        \href{https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en}{[Google Scholar]} ~$|$~ \href{https://dblp.org/pid/54/8052-2.html}{[DBLP]}
+        \vspace{0.4mm}
+        }
+    \end{minipage}
+
+    \vspace{0cm}
+}
+
+% ------------------------------------------------------------
+% Section heading
+% ------------------------------------------------------------
+\newcommand{\cvsection}[1]{
+    \vspace{1.2em}
+    \noindent
+    \makebox[\datewidth][l]{%
+        {\color{SectionRed}\rule{2.65cm}{2.4pt}}%
+    }%
+    {\color{SectionRed}\sffamily\large\bfseries #1}
+    \par
+    \vspace{0.55em}
+}
+
+% ------------------------------------------------------------
+% CV entry environments
+% ------------------------------------------------------------
+
+% Entry with date/time period on the left
+\newenvironment{cvdatedentry}[3]{
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{0pt}
+        {\color{gray}\small #1}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        \textbf{#2}%
+        \if\relax\detokenize{#3}\relax
+        \else
+            \hfill {\small #3}%
+        \fi
+        \par
+}{
+    \end{minipage}
+    \par\vspace{0.65em}
+}
+
+% Entry without date, aligned with the main item text
+\newenvironment{cvundatedentry}[1]{
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{0pt}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        \textbf{#1}\par
+}{
+    \end{minipage}
+    \par\vspace{0.65em}
+}
+
+% Bullet list
+\newenvironment{cvbullets}{
+    \begin{itemize}[
+        leftmargin=1.2em,
+        topsep=0.25em,
+        itemsep=0.15em,
+        parsep=0pt
+    ]
+}{
+    \end{itemize}
+}
+
+\newenvironment{cvdatedentrynormal}[3]{
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{0pt}
+        {\color{gray}\small #1}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        {#2}%
+        \if\relax\detokenize{#3}\relax
+        \else
+            \hfill {\small #3}%
+        \fi
+        \par
+}{
+    \end{minipage}
+    \par\vspace{0.65em}
+}
+
+\newenvironment{cvundatedentrynormal}[1]{
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{0pt}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        {#1}\par
+}{
+    \end{minipage}
+    \par\vspace{0.65em}
+}
+
+\newenvironment{cvbulletentrynormal}[1]{
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{1.5pt}
+        \hfill{\color{SectionRed}\huge\textbullet}\hspace{0.8em}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        {#1}\par
+}{
+    \end{minipage}
+    \par\vspace{0.65em}
+}
+
+
+% ------------------------------------------------------------
+% Helper: print content only if field is non-empty
+% ------------------------------------------------------------
+\newcommand{\ifnotempty}[2]{%
+    \if\relax\detokenize{#1}\relax
+    \else
+        #2%
+    \fi
+}
+
+% ------------------------------------------------------------
+% Publication entry
+% Usage:
+% \cvpublication{title}{authors}{journal}{conference}{misc}{arxiv}
+% ------------------------------------------------------------
+\newcommand{\cvpublication}[6]{%
+    \par
+    \noindent
+    \begin{minipage}[t]{\datewidth}
+        \vspace{1.5pt}
+        \hfill{\color{SectionRed}\huge\textbullet}\hspace{0.8em}
+    \end{minipage}%
+    \begin{minipage}[t]{\contentwidth}
+        \vspace{0pt}
+        \textbf{#1}\par
+        #2\par
+        \ifnotempty{#4}{#4\par}
+        \ifnotempty{#3}{#3\par}
+        \ifnotempty{#5}{#5\par}
+        \ifnotempty{#6}{%
+            \href{https://arxiv.org/abs/#6}{arXiv: \texttt{#6}}\par
+        }%
+    \end{minipage}
+    \par\vspace{0.75em}
+}
+
+
+\newcommand{\confname}[1]{\textcolor{MidnightBlue}{\textbf{#1}}}
+\newcommand{\journame}[1]{\textcolor{BrickRed}{\textbf{#1}}}
+
+% ------------------------------------------------------------
+% Document
+% ------------------------------------------------------------
+
+
+\begin{document}
+
+\makecvheader
+
+\hypersetup{
+    urlcolor=black,
+    linkcolor=black
+}
+
+
+\cvsection{Employment}
+
+\begin{cvdatedentrynormal}{2026--Present}{HIIT postdoctoral fellow}{University of Helsinki}
+\end{cvdatedentrynormal}
+
+\begin{cvdatedentrynormal}{2024--2026}{Postdoctoral researcher}{University of Regensburg}
+\end{cvdatedentrynormal}
+
+\begin{cvdatedentrynormal}{2023--2024}{Postdoctoral researcher}{University of Edinburgh}
+\end{cvdatedentrynormal}
+
+\cvsection{Education}
+
+\begin{cvdatedentrynormal}{2020--2023}{Ph.D. }{University of Edinburgh}
+Thesis title: \emph{Algorithms and complexity for approximately counting hypergraph colourings and related problems}.\\
+Advisor: Heng Guo.
+\end{cvdatedentrynormal}
+
+\begin{cvdatedentrynormal}{2016--2020}{B.Sc. \textnormal{\textit{summa cum laude} in Computer Science (Turing Class).}}{Peking University}
+\end{cvdatedentrynormal}
+
+\cvsection{Research topics}
+
+\begin{cvbulletentrynormal}{Algorithms and complexity, with a focus on counting problems and their connection with other topics, including}{}
+\begin{cvbullets}
+\item randomness in computation and approximability;
+\item fine-grained, parameterised and algebraic complexity; 
+\item applications in statistical physics, computational geometry, learning theory, etc. 
+\end{cvbullets}
+\end{cvbulletentrynormal}
+
+
+\cvsection{Publications \& preprints}
+
+
+\cvpublication
+{Planar Perfect Matching Counting is as Hard as Determinants.}
+{Radu Curticapean, Jiaheng Wang.}
+{}
+{}
+{\textit{preprint}}
+{2606.03975}
+
+\cvpublication
+{Partition Rank and Algebraic Circuit Lower Bounds.}
+{Cornelius Brand, Petteri Kaski, Jiaheng Wang.}
+{\confname{ESA 2026}, \textit{to appear}}
+{}
+{}
+{2607.02241}
+
+\cvpublication
+{Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?}
+{Cornelius Brand, Radu Curticapean, Petteri Kaski, Baitian Li, Ian Orzel, Tim Seppelt, Jiaheng Wang.}
+{\confname{CCC 2026}, \textit{to appear}}
+{}
+{}
+{2602.11975}
+
+\cvpublication
+{Sink-free orientations: a local sampler with applications.}
+{Konrad Anand, Graham Freifeld, Heng Guo, Chunyang Wang, Jiaheng Wang.}
+{\confname{RANDOM 2025}}
+{}
+{}
+{2502.05877}
+
+\cvpublication
+{Can you link up with treewidth?}
+{Radu Curticapean, Simon D\"{o}ring, Daniel Neuen, Jiaheng Wang.}
+{\confname{STACS 2025}}
+{}
+{}
+{2410.02606}
+
+\cvpublication
+{Rapid mixing of the flip chain over non-crossing spanning trees.}
+{Konrad Anand, Weiming Feng, Graham Freifeld, Heng Guo, Mark Jerrum, Jiaheng Wang.}
+{\confname{SoCG 2025}}
+{}
+{}
+{2409.07892}
+
+\cvpublication
+{The complexity of computing fermionants and flow-like structures in graphs, modulo $p$.}
+{Isja Mannens, Jiaheng Wang.}
+{}
+{}
+{\textit{submitted}}
+{}
+
+\cvpublication
+{Approximate counting for spin systems in sub-quadratic time.}
+{Konrad Anand, Weiming Feng, Graham Freifeld, Heng Guo, Jiaheng Wang.}
+{\confname{ICALP 2024}}
+{\journame{TheoretiCS}, Volume 4 (2025), Article 3, 1--27}
+{}
+{2306.14867}
+
+\cvpublication
+{Inapproximability of counting independent sets in linear hypergraphs.}
+{Guoliang Qiu, Jiaheng Wang.}
+{}
+{\journame{Information Processing Letters}, Volume 184, Article 106448, 1--6, 2024}
+{}
+{2212.03072}
+
+\cvpublication
+{Towards derandomising Markov chain Monte Carlo.}
+{Weiming Feng, Heng Guo, Chunyang Wang, Jiaheng Wang, Yitong Yin.}
+{\confname{FOCS 2023}}
+{\journame{SIAM Journal on Computing}, Vol. 54, Iss. 3, pp. 775--813, 2025}
+{}
+{2211.03487}
+
+\cvpublication
+{A simple polynomial-time approximation algorithm for the total variation distance between two product distributions.}
+{Weiming Feng, Heng Guo, Mark Jerrum, Jiaheng Wang.}
+{\confname{SOSA 2023}}
+{\journame{TheoretiCS}, Volume 2 (2023), Article 8, 1--7}
+{}
+{2208.00740}
+
+\cvpublication
+{Swendsen--Wang dynamics for the ferromagnetic Ising model with external fields.}
+{Weiming Feng, Heng Guo, Jiaheng Wang.}
+{}
+{\journame{Information and Computation}, Volume 294, Article 105066, 1--34, 2023}
+{}
+{2205.01985}
+
+\cvpublication
+{Improved bounds for randomly colouring simple hypergraphs.}
+{Weiming Feng, Heng Guo, Mark Jerrum, Jiaheng Wang.}
+{\confname{RANDOM 2022}}
+{}
+{}
+{2202.05554}
+
+\cvpublication
+{Inapproximability of counting hypergraph colourings.}
+{Andreas Galanis, Heng Guo, Jiaheng Wang.}
+{}
+{\journame{ACM Transactions on Computation Theory}, 14(3--4):10, pp. 1--33, 2022}
+{}
+{2107.05486}
+
+\cvpublication
+{On the degree of Boolean functions as polynomials over $\mathbb{Z}_m$.}
+{Xiaoming Sun, Yuan Sun, Jiaheng Wang, Kewen Wu, Zhiyu Xia, Yufan Zheng.}
+{\confname{ICALP 2020}}
+{}
+{}
+{1910.12458}
+
+\cvsection{Awards}
+
+\begin{cvdatedentrynormal}{2020}{Informatics Global PhD Scholarship \textnormal{(3.5 years)}}{University of Edinburgh}
+\end{cvdatedentrynormal}
+
+\begin{cvdatedentrynormal}{2016--2020}{\textnormal{4 awards/scholarships during undergraduate study}}{Peking University}
+\end{cvdatedentrynormal}
+
+\cvsection{Services}
+
+\begin{cvbulletentrynormal}{Programme committee member:}{}
+FSTTCS 2025
+\end{cvbulletentrynormal}
+
+\begin{cvbulletentrynormal}{Layout editor of TheoretiCS since 2025}{}
+\textit{Voluntary. This is a Diamond Open Access journal published by the TheoretiCS Foundation e.V., a German not-for-profit organization. Please consider supporting it!}
+\end{cvbulletentrynormal}
+
+\begin{cvbulletentrynormal}{External reviewer at conferences:}{}
+ESA 2026, ICALP 2026, STOC 2026, STACS 2026, SODA 2026, MFCS 2025, ESA 2025, CIAC 2025,  APPROX/RANDOM 2024, FOCS 2024, ICALP 2021, SODA 2021
+\end{cvbulletentrynormal}
+
+\begin{cvbulletentrynormal}{Journal referee:}{}
+Theoretical Computer Science
+\end{cvbulletentrynormal}
+
+\begin{cvbulletentrynormal}{Student organizer of SAGT 2018}{}
+\textit{organizing volunteers, getting involved in press, etc.}
+\end{cvbulletentrynormal}
+
+\cvsection{Teaching}
+
+\begin{cvbulletentrynormal}{\textbf{University of Regensburg:}}{}
+\end{cvbulletentrynormal}
+\begin{cvdatedentrynormal}{2025 Winter}{76388 Randomized Algorithms}{Durchf\"{u}hrender}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2024 Winter}{70101 Complexity Theory}{Durchf\"{u}hrender}
+\end{cvdatedentrynormal}
+
+\begin{cvbulletentrynormal}{\textbf{University of Edinburgh:}}{}
+\end{cvbulletentrynormal}
+\begin{cvdatedentrynormal}{2022--2023}{INFR08026 Introduction to Algorithms and Data Structures}{Teaching Assistant/Tutor}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2022 Autumn}{INFR11201 Randomized Algorithms}{Tutor}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2021--2022}{INFR08026 Introduction to Algorithms and Data Structures}{Teaching Assistant/Tutor}
+\end{cvdatedentrynormal}
+
+\begin{cvbulletentrynormal}{\textbf{Peking University:}}{}
+\end{cvbulletentrynormal}
+\begin{cvdatedentrynormal}{2020 Spring}{04834010 Randomized Algorithms}{Teaching Assistant}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2020 Spring}{04833440 Introduction to the Theory of Computation}{Teaching Assistant}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2019 Fall}{04833040/04832363 Introduction to Computer Systems}{Teaching Assistant/Tutor}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2019 Spring}{04833440 Introduction to the Theory of Computation}{Teaching Assistant}
+\end{cvdatedentrynormal}
+\begin{cvdatedentrynormal}{2018 Fall}{04833040/04832363 Introduction to Computer Systems}{Teaching Assistant/Tutor}
+\end{cvdatedentrynormal}
+
+\thispagestyle{fancy}
+\fancyhf{}
+\fancyfoot{\textcolor{white}{Last update: \today} \hfill\textcolor{white}{Page \thepage \hspace{1pt} of \thepage}}
+
+\begin{tikzpicture}[remember picture, overlay]
+        \fill[HeaderBlue]
+            (current page.south west)
+            rectangle
+            ([yshift=\headerheight]current page.south east);
+\end{tikzpicture}
+
+\end{document}

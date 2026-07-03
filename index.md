@@ -10,7 +10,7 @@ permalink: /
 **Address:**  
 Department of Computer Science, University of Helsinki    
 **Email:** *pw384 # hotmail # com*  
-**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: 01/04/2026 dd/mm/yyyy)  
+**CV:** [[Here]](/assets/misc/CV.pdf) (Last update: July 3, 2026)  
 [[Google Scholar]](https://scholar.google.com/citations?user=sIplfzsAAAAJ&hl=en) | [[ORCID]](https://orcid.org/0000-0002-5191-545X) | [[dblp]](https://dblp.org/pid/54/8052-2.html)  
 
 ## Hej! 
