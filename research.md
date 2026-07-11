@@ -32,7 +32,7 @@ Talk slides at CCC: [[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)
 
 **Can you link up with treewidth?**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
-**STACS 2025**  
+**Journal of Computer and System Sciences**, *to appear* (preliminary version in **STACS 2025**)  
 [[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
 Talk slides in Paris: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-paris.pdf)  
 
