@@ -11,7 +11,7 @@ PDF versions are NOT always up-to-date. Authors are listed according to the [alp
 
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
-*preprint*  
+*submitted*  
 [[arXiv]](https://arxiv.org/abs/2606.03975) | [[PDF]](/assets/papers/fkt-lower-bound.pdf)  
 
 **Partition Rank and Algebraic Circuit Lower Bounds**  
@@ -32,8 +32,8 @@ Talk slides at CCC: [[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)
 
 **Can you link up with treewidth?**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
-**Journal of Computer and System Sciences**, *to appear* (preliminary version in **STACS 2025**)  
-[[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
+**Journal of Computer and System Sciences**, Volume ??, Article 103835, 1-?? *(in press)* (preliminary version in **STACS 2025**)  
+[[journal]](https://doi.org/10.1016/j.jcss.2026.103835) | [[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
 Talk slides in Paris: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-paris.pdf)  
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
