@@ -8,6 +8,15 @@ permalink: /research
 
 PDF versions are NOT always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
+## 100% AI idea
+
+tba
+
+## x% AI idea for 0 < x < 100
+
+tba
+
+## 0% AI idea
 
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
@@ -21,8 +30,8 @@ PDF versions are NOT always up-to-date. Authors are listed according to the [alp
 
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
-**CCC 2026**, *to appear*  
-[[arXiv]](https://arxiv.org/abs/2602.11975) | [[PDF]](/assets/papers/high-order-tensor.pdf)  
+**CCC 2026**,  
+[[conference]](https://doi.org/10.4230/LIPIcs.CCC.2026.11) | [[arXiv]](https://arxiv.org/abs/2602.11975) | [[PDF]](/assets/papers/high-order-tensor.pdf)  
 Talk slides at CCC: [[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)  
 
 **Sink-free orientations: a local sampler with applications**  
