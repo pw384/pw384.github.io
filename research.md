@@ -8,15 +8,13 @@ permalink: /research
 
 PDF versions are NOT always up-to-date. Authors are listed according to the [alphabetical order](https://en.wikipedia.org/wiki/Hardy-Littlewood_Rule). Papers are sorted by date of first submission. 
 
-## 100% AI idea
+## Deus ex machina
+*Papers listed here are significantly AI-assisted but responsibly processed and endorsed by human being(s)*
 
 tba
 
-## x% AI idea for 0 < x < 100
-
-tba
-
-## 0% AI idea
+## Homo sapiens
+*Papers listed here are due to human effort with no or little AI involved*
 
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
