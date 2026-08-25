@@ -11,10 +11,13 @@ PDF versions are NOT always up-to-date. Authors are listed according to the [alp
 ## Deus ex machina
 *Papers listed here are significantly AI-assisted but responsibly processed and endorsed by human being(s)*
 
-tba
+Homomorphic-core phase transition threshold in Erdős--Rényi random graphs  
+*with Deus ex machina*  
+[[arXiv]]() | [[PDF]](/assets/papers/hom-core.pdf)  
+
 
 ## Homo sapiens
-*Papers listed here are due to human effort with no or little AI involved*
+*Papers listed here are due to human effort with no or negligible AI involved*
 
 **Planar Perfect Matching Counting is as Hard as Determinants**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean)  
