@@ -13,7 +13,7 @@ PDF versions are NOT always up-to-date. Authors are listed according to the [alp
 
 **Homomorphic-core phase transition threshold in Erdős--Rényi random graphs**  
 *with Deus ex machina*  
-preprint  
+*submitted*  
 [[arXiv]](https://arxiv.org/abs/2608.24520) | [[PDF]](/assets/papers/hom-core.pdf)  
 
 
