@@ -31,12 +31,12 @@ The idea is inspired by [Oded Goldreich in one of his essay/opinion writing](htt
 **Partition Rank and Algebraic Circuit Lower Bounds**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html) and [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski)  
 [[conference]](https://doi.org/10.4230/LIPIcs.ESA.2026.63) | [[arXiv]](https://arxiv.org/abs/2607.02241) | [[PDF]](/assets/papers/two-slice-rank.pdf)  
-Talk slides at ESA: [[PowerPoint]](/assets/slides/two-slice-rank-esa.pptx)  
+[[PowerPoint]](/assets/slides/two-slice-rank-esa.pptx)  
 
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?**  
 *with* [Cornelius Brand](https://dblp.org/pid/182/2067.html), [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Petteri Kaski](https://www.aalto.fi/en/people/petteri-kaski), [Baitian Li](https://www.cs.columbia.edu/~baitian/), [Ian Orzel](https://dblp.org/pid/399/5520.html) and [Tim Seppelt](https://tseppelt.github.io/)  
 [[conference]](https://doi.org/10.4230/LIPIcs.CCC.2026.11) | [[arXiv]](https://arxiv.org/abs/2602.11975) | [[PDF]](/assets/papers/high-order-tensor.pdf)  
-Talk slides at CCC: [[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)  
+[[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)  
 
 **Sink-free orientations: a local sampler with applications**  
 *with* [Konrad Anand](https://konradanand.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Chunyang Wang](https://wcysai.com/)  
@@ -45,12 +45,12 @@ Talk slides at CCC: [[PowerPoint]](/assets/slides/beyond-bilinearity-ccc.pptx)
 **Can you link up with treewidth?**  
 *with* [Radu Curticapean](https://www.uni-regensburg.de/informatik-data-science/fakultaet/einrichtungen/algorithmen-und-komplexitaetstheorie/team/radu-curticapean), [Simon Döring](https://dblp.org/pid/360/9973.html) and [Daniel Neuen](https://dblp.org/pid/176/5089.html)  
 [[journal]](https://doi.org/10.1016/j.jcss.2026.103835) | [[conference]](https://doi.org/10.4230/LIPIcs.STACS.2025.28) | [[arXiv]](https://arxiv.org/abs/2410.02606) | [[PDF]](/assets/papers/linkage-capacity.pdf)  
-Talk slides in Paris: [[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-paris.pdf)  
+[[Slides] (only work with Adobe Acrobat)](/assets/slides/linkage-paris.pdf)  
 
 **Rapid mixing of the flip chain over non-crossing spanning trees**  
 *with* [Konrad Anand](https://konradanand.github.io/), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 [[conference]](https://doi.org/10.4230/LIPIcs.SoCG.2025.8) | [[arXiv]](https://arxiv.org/abs/2409.07892) | [[PDF]](/assets/papers/non-crossing-trees.pdf)  
-Poster in HALG: [[PDF]](/assets/slides/ncst-poster.pdf)  
+[[PDF Poster]](/assets/slides/ncst-poster.pdf)  
 
 **The complexity of computing fermionants and flow-like structures in graphs, modulo p**  
 *with* [Isja Mannens](https://www.uu.nl/staff/IMEMannens)  
@@ -59,7 +59,7 @@ Poster in HALG: [[PDF]](/assets/slides/ncst-poster.pdf)
 **Approximate counting for spin systems in sub-quadratic time**  
 *with* [Konrad Anand](https://konradanand.github.io/), [Weiming Feng](https://fwm94.github.io/), [Graham Freifeld](https://gfreifeld.github.io/index.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 [[journal]](https://theoretics.episciences.org/15062) | [[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2024.11) | [[arXiv]](https://arxiv.org/abs/2306.14867) | [[PDF]](/assets/papers/sub_quadratic_counting.pdf)  
-Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
+[[PowerPoint]](/assets/slides/subquadratic.pptx)
 
 **Inapproximability of counting independent sets in linear hypergraphs**  
 *with* [Guoliang Qiu](https://dblp.org/pid/256/7803-1.html)  
@@ -68,12 +68,12 @@ Talk slides in Shonan: [[PowerPoint]](/assets/slides/subquadratic.pptx)
 **Towards derandomising Markov chain Monte Carlo**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/), [Chunyang Wang](https://wcysai.com/) and [Yitong Yin](http://tcs.nju.edu.cn/yinyt/)  
 [[journal]](https://epubs.siam.org/doi/full/10.1137/24M1663806) | [[conference]](https://doi.org/10.1109/FOCS57990.2023.00120) | [[arXiv]](https://arxiv.org/abs/2211.03487v2) | [[PDF]](/assets/papers/cttp_derandomisation.pdf)  
-Talk slides in BARC: [[PowerPoint]](/assets/slides/cttp_barc.pptx)
+[[PowerPoint]](/assets/slides/cttp_barc.pptx)
 
 **A simple polynomial-time approximation algorithm for the total variation distance between two product distributions**  
 *with* [Weiming Feng](https://fwm94.github.io/), [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Mark Jerrum](https://webspace.maths.qmul.ac.uk/m.jerrum/)  
 [[journal]](https://theoretics.episciences.org/11465) | [[conference]](https://doi.org/10.1137/1.9781611977585.ch30) | [[arXiv]](https://arxiv.org/abs/2208.00740v3) | [[PDF]](/assets/papers/dtv_alg.pdf)  
-Talk slides in Aalto: [[PowerPoint]](/assets/slides/dtv.pptx)
+[[PowerPoint]](/assets/slides/dtv.pptx)
 
 **Swendsen-Wang dynamics for the ferromagnetic Ising model with external fields**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
@@ -82,7 +82,7 @@ Talk slides in Aalto: [[PowerPoint]](/assets/slides/dtv.pptx)
 **Improved bounds for randomly colouring simple hypergraphs**  
 *with* [Weiming Feng](https://fwm94.github.io/) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
 [[conference]](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.25) | [[arXiv]](https://arxiv.org/abs/2202.05554) | [[PDF]](/assets/papers/linear_lll.pdf)  
-Talk slides during RANDOM'22: [[slides]](/assets/slides/linear_lll_slides.pdf)
+[[slides]](/assets/slides/linear_lll_slides.pdf)
 
 **Inapproximability of counting hypergraph colourings**  
 *with* [Andreas Galanis](https://www.cs.ox.ac.uk/people/andreas.galanis/myindex.html) and [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/)  
@@ -92,4 +92,4 @@ Talk slides during RANDOM'22: [[slides]](/assets/slides/linear_lll_slides.pdf)
 **On the degree of boolean functions as polynomials over \\(\mathbb{Z}_m\\)**  
 *with* [Xiaoming Sun](http://theory.ict.ac.cn/en/), [Yuan Sun](https://theory.ict.ac.cn/en/), [Kewen Wu](https://shlw.github.io/), [Zhiyu Xia](https://s13ashell.github.io/) and [Yufan Zheng](https://www.cs.umd.edu/people/phonebook/grad-student)  
 [[conference]](https://doi.org/10.4230/LIPIcs.ICALP.2020.100) | [[arXiv]](https://arxiv.org/abs/1910.12458) | [[PDF]](/assets/papers/degm.pdf)  
-Talk slides during ICALP'20: [[slides]](/assets/slides/degm_icalp20.pdf)
+[[slides]](/assets/slides/degm_icalp20.pdf)
