@@ -32,6 +32,28 @@ The focus of my recent research is different aspects of approximate counting pro
 
 Please view [this page](/research) for a list of research outputs.
 
+#### Coexisting with AI (aka "AI-invulnerable" research)
+
+Instead of putting efforts in answering yes/no questions, I prioritise developing new research methodology, topics and insights, even if the underlying problem has already been "resolved". 
+In other words, the "problems" I enjoy studying are very ill-formulated and open-ended, usually in the format of "Can you design *new* approaches that might be useful later?" or "This is a new problem that people overlooked in the before. Now let's formally study it!". 
+
+**What is the advantage?** 
+It could be some new toolkits that AIs (and of course, other human beings) have never seen before, meaning more chance to jump outside the so-called "convex hull" of human knowledge. And personally, these "problems" cannot even be formulated as a single prompt that one can invoke any language models with `/goal`, and this helped me survive the "AI-dump bombing" on Oct 07, 2026. 
+
+**What is the disadvantage?** 
+Research outputs based on this mindset are usually pre-mature without any better available tools. Reviewers and PCs are more likely to find how immature the approach is and that the proofs are not "difficult", and very likely not motivated since these problems are usually not looked into before at all. This means such papers could barely be accepted at those *so-called* "top" conferences. But now think about what would happen to these conferences under the situation that AIs are bombing existing open problems (with slops), if people are still obssessed with problem-solving? 
+
+So here is a list of my conceptual contributions to TCS that I am proud of. I hope you might find these pre-mature ideas refreshing, and potentially useful.
+
+**Partition Rank and Algebraic Circuit Lower Bounds** (*with C. Brand and P. Kaski*): We designed a new measure that could be used to analyse the complexity of high-order tensors.  
+**Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?** (*with C. Brand, R. Curticapean, P. Kaski, B. Li, I. Orzel and T. Seppelt*): The first paper to systematically look into high-order tensors.  
+**Can you link up with treewidth?** (with R. Curticapean, S. Döring and D. Neuen): We revisit the parameterised complexity of 2-CSP problems for the third time, but coming with a new lens borrowed from the Bell lab around 1970s.  
+**Approximate counting for spin systems in sub-quadratic time** (with K. Anand, W. Feng, G. Freifeld and H. Guo): The first paper to raise the question about the efficiency of the textbook-level counting-to-sampling reduction. 
+**Towards derandomising Markov chain Monte Carlo** (with W. Feng, H. Guo, C. Wang and Y. Yin): A creative way of implementing MCMC in an extremely fast way that has seen some applications in practice. 
+**A simple polynomial-time approximation algorithm for the total variation distance between two product distributions** (with W. Feng, H. Guo and M. Jerrum): Textbook-level simplicity. 
+
+and something more to come...
+
 ---
 
 ## Useful Links
