@@ -48,9 +48,9 @@ So here is a list of my conceptual contributions to TCS that I am proud of. I ho
 **Partition Rank and Algebraic Circuit Lower Bounds** (*with C. Brand and P. Kaski*): We designed a new measure that could be used to analyse the complexity of high-order tensors.  
 **Beyond Bilinear Complexity: What Works and What Breaks with Many Modes?** (*with C. Brand, R. Curticapean, P. Kaski, B. Li, I. Orzel and T. Seppelt*): The first paper to systematically look into high-order tensors.  
 **Can you link up with treewidth?** (*with R. Curticapean, S. Döring and D. Neuen*): We revisit the parameterised complexity of 2-CSP problems for the third time, but coming with a new lens borrowed from the Bell lab around 1970s.  
-**Approximate counting for spin systems in sub-quadratic time** (*with K. Anand, W. Feng, G. Freifeld and H. Guo*): The first paper to raise the question about the efficiency of the textbook-level counting-to-sampling reduction. 
-**Towards derandomising Markov chain Monte Carlo** (*with W. Feng, H. Guo, C. Wang and Y. Yin*): A creative way of implementing MCMC in an extremely fast way that has seen some applications in practice. 
-**A simple polynomial-time approximation algorithm for the total variation distance between two product distributions** (*with W. Feng, H. Guo and M. Jerrum*): Textbook-level simplicity. 
+**Approximate counting for spin systems in sub-quadratic time** (*with K. Anand, W. Feng, G. Freifeld and H. Guo*): The first paper to raise the question about the efficiency of the textbook-level counting-to-sampling reduction.  
+**Towards derandomising Markov chain Monte Carlo** (*with W. Feng, H. Guo, C. Wang and Y. Yin*): A creative way of implementing MCMC in an extremely fast way that has seen some applications in practice.  
+**A simple polynomial-time approximation algorithm for the total variation distance between two product distributions** (*with W. Feng, H. Guo and M. Jerrum*): Textbook-level simplicity.  
 
 and something more to come...
 
